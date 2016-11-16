@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:padding="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/list_cover"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_centerVertical="true"
+        android:src="@mipmap/ic_launcher"/>
+
+    <TextView
+        android:id="@+id/list_song_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@id/list_cover"
+        android:layout_alignTop="@id/list_cover"
+        android:layout_marginTop="5dp"
+        android:layout_marginLeft="10dp"
+        android:text="我是女生"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/list_artist"
+        android:layout_below="@id/list_song_name"
+        android:layout_alignLeft="@id/list_song_name"
+        android:layout_marginTop="10dp"
+        android:text="南拳爸爸"
+        />
+</RelativeLayout>

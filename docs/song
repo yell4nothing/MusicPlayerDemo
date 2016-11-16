@@ -1,0 +1,33 @@
+{
+  "errorCode":22000,
+  "data":{
+    "xcode":"2ccf3ee95f413e7339ce3d70e3126484",
+    "songList":[
+      {
+        "queryId":"8182419",
+        "songId":8182419,
+        "songName":"This Love",
+        "artistId":"55191",
+        "artistName":"Maroon 5",
+        "albumId":8181883,
+        "albumName":"Songs About Jane",
+        "songPicSmall":"http://musicdata.baidu.com/data2/pic/117407909/117407909.jpg",
+        "songPicBig":"http://musicdata.baidu.com/data2/pic/117407851/117407851.jpg",
+        "songPicRadio":"http://musicdata.baidu.com/data2/pic/117407828/117407828.jpg",
+        "lrcLink":"http://musicdata.baidu.com/data2/lrc/246654859/246654859.lrc",
+        "version":"",
+        "copyType":1,
+        "time":206,
+        "linkCode":22000,
+        "songLink":"http://yinyueshiting.baidu.com/data2/music/42498484/8182419183600128.mp3?xcode=2ccf3ee95f413e7360e85653b43f0cf4",
+        "showLink":"http://yinyueshiting.baidu.com/data2/music/42498484/8182419183600128.mp3?xcode=2ccf3ee95f413e7360e85653b43f0cf4",
+        "format":"mp3",
+        "rate":128,
+        "size":3301102,
+        "relateStatus":"0",
+        "resourceType":"0",
+        "source":"web"
+      }
+    ]
+  }
+}
